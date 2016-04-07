@@ -1,6 +1,4 @@
-com\amit\controllers\LoginController.class
-com\amit\controllers\Login.class
-com\amit\controllers\Registration.class
-com\amit\controllers\LoginRepository.class
-com\amit\controllers\RegisterRepository.class
-com\amit\controllers\RegisterController.class
+org\javaee7\sample\PersonResource.class
+org\javaee7\sample\MyApplication.class
+org\javaee7\sample\PersonDatabase.class
+org\javaee7\sample\Person.class
